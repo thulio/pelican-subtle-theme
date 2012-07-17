@@ -142,6 +142,5 @@ You're done!
 *Yeah, that is a lot of icons.*
 
 ##Notes 
-I have not tested RSS and Atom feeds as I do not use these services, I think I might have removed the support for them so keep that in mind and you might be able to get the needed code on the notmyidea theme.
-
+RSS is now enabled
 
